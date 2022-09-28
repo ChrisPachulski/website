@@ -1,0 +1,68 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 5+ years of experience working with companies in CPG, FinTech, & Digital Advertising.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/CP Res.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Senior Business Intelligence Analyst
+      
+      #### [Ad.Net](https://www.ad.net/) 
+      
+      - Manage and mentor a team of two other business analysts.
+      
+      - Implemented budgeting benchmarks resulting in __20% increase in revenue.__ 
+      
+      - Established the  capture and ingestion of SimilarWeb API endpoint to direct lead acquisition.
+      
+      - Created automatic report ingestion via Confluence API __resulting in over 800 hours saved__ per annum
+    time: 2021-present
+  - content: >
+      ### Data Analyst
+      
+      #### Consumer Edge
+
+      - Used NLP to automate the initial need for my position, __increasing brand tagging by 2,000%.__
+    time: 2019-2021
+  - content: >
+      ### Co Founder 
+
+      #### [MTG BAN](https://www.patreon.com/ban_community)
+
+      - Collaborated with investors and software engineers to create BAN LLC, __driving over $1.2 million annual revenue__ in affiliate spend for Magic: the Gathering products
+      
+      - Implemented database to track __70,000__ orders a day from [TCGplayer](https://www.tcgplayer.com/) to review basket analysis & churn rates.
+      
+      - Created a community of __over 200 paying members__ by demonstrating the value of data and delivering it in consumable fashion to industry SME’s, vendors, and hobbyists
+      
+      - Overlay predictive modeling & machine learning to forecast price movements and market arbitrage, allowing my scripts to purchase product on my behalf.
+    time: 2017-2022
+  
+
+
+education:
+  - content: >
+      #### Master of Business Administration (MBA)
+
+      Hofstra University
+      
+    time: 2019
+  - content: >
+      #### Bachelor of Arts & Sciences
+
+      Creighton University
+    time: 2017
+  

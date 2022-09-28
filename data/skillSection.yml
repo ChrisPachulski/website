@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Here's where I can help
+
+  I have a strong background in data science, machine learning, and business problem-solving. I mainly use R, SQL, and Docker. 
+
+image: images/hero/user-picture.jpeg
+
+skill:
+  - title: R
+    percent: 80
+  - title: SQL
+    percent: 80
+  - title: Docker & Git
+    percent: 60
+  - title: Python
+    percent: 50
+  - title: Bash
+    percent: 50

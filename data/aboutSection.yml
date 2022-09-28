@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Chris?
+
+  Chris Pachulski is a business-forward problem solver with over 5+ years of experience working in CPG, FinTech, & Digital Advertising.
+content: >
+  ### I design and build data analytics & data science products.
+
+  I love learning new tools and skills. My passion is working with R. But, when I am not working on scripts for MTG BAN or ETL projects for Ad.Net, I enjoy watching hockey & playing with my dachshunds.
+  
+  
+  My area of focus is applying data analytics to business. I create value for companies by understanding & identifying road blocks and repetitive tasks, and in turn, building automated solutions that generate long term value. I enjoy communicating with all stakeholders to make better decisions with data.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/chris-pachulski/
+button2Target: "/cv/CP Res.pdf"
+image: images/hero/prof-pic.jpeg
+imageMaskPosition: 70px 0px

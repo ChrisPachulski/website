@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: Business Analyst
+content: >
+  ### Hi, I'm Chris
+
+  Chris is a Senior Business Intelligence Analyst at [Ad.Net](https://www.ad.net/), 
+  a digital advertising firm that connects advertiser with publishers.
+  
+  Chris is also the Co-Founder of [MTG BAN](https://www.patreon.com/ban_community),
+  a site and community dedicated to buying and selling collectible items.
+buttonName: Contact Chris
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/user-picture.jpeg
+videoThumb: 
+videoURL: 
