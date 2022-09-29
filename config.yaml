@@ -46,3 +46,6 @@ params:
     - icon: fa-twitter-square
       url: https://twitter.com/WolfOfTinStreet
       weight: 3
+    - icon: fa-discord
+      url: https://discord.com/channels/@me/442089307889467412
+      weight: 4
