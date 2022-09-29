@@ -40,7 +40,7 @@ params:
     - icon: fa-linkedin-square
       url: https://www.linkedin.com/in/chris-pachulski/
       weight: 1
-    - icon: fa-square-github
+    - icon: fa-github-square
       url: https://github.com/ChrisPachulski/
       weight: 2
     - icon: fa-twitter-square
