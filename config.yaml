@@ -27,7 +27,7 @@ menu:
     weight: 2
   - url: "#resume"
     name: Resume
-    weight: 2
+    weight: 3
 params:
   blogPageURL: blog
   contactButtonLabel: Contact Chris Today
