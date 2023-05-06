@@ -29,7 +29,6 @@ menu:
     name: Resume
     weight: 2
 params:
-  blogPageURL: blog
   contactButtonLabel: Contact Chris Today
   contactLink: "#contact"
   copyright: All right reserved copyright © Chris Pachulski 2022
